@@ -1,0 +1,395 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A woollen shroud, or, Learn to dye to be given at burials / by C.B.A. Æ. LXX. &amp; XXIII.</title>
+            <author>Barksdale, Clement, 1609-1687.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A30962</idno>
+            <idno type="STC">Wing B811</idno>
+            <idno type="STC">ESTC R13607</idno>
+            <idno type="EEBO-CITATION">11914844</idno>
+            <idno type="OCLC">ocm 11914844</idno>
+            <idno type="VID">50922</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A30962)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50922)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 807:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A woollen shroud, or, Learn to dye to be given at burials / by C.B.A. Æ. LXX. &amp; XXIII.</title>
+                  <author>Barksdale, Clement, 1609-1687.</author>
+               </titleStmt>
+               <extent>[2], 13 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Barksdale ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+                  <note>Attributed to Clement Barksdale. cf. Halkett &amp; Laing and Wing.</note>
+                  <note>Table of contents: p. [2]</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Death --  Religious aspects.</term>
+               <term>Prayers.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:50922:1"/>
+            <pb facs="tcp:50922:1" rendition="simple:additions"/>
+            <p>A Woollen Shroud, OR LEARN TO DYE.</p>
+            <p>To be Given at BURIALS.</p>
+            <p>By <hi>C. B. A. Æ.</hi> LXX. N. XXIII.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Barksdale</hi> at the ſign of the Five Bells in <hi>New-ſtreet</hi> near <hi>Shooe-Lane,</hi> 1679.</p>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:50922:2" rendition="simple:additions"/>
+            <list>
+               <item>
+                  <hi>I. PArt,</hi> Containing certain Rules.</item>
+               <item>
+                  <hi>II.</hi> Cautions, or Warnings.</item>
+               <item>
+                  <hi>III.</hi> The Four laſt things, Death, Judgment, Heaven, Hell.</item>
+               <item>
+                  <hi>IV.</hi> Ejaculations out of the <hi>Pſalms.</hi>
+               </item>
+               <item>
+                  <hi>V.</hi> Comfortable Notes for Afflicted, and Sick Perſons.</item>
+               <item>
+                  <hi>VI.</hi> Some Apoſtolical Exhortations.</item>
+               <item>
+                  <hi>VII.</hi> Short Prayers gathered out of the Church Book.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:50922:2"/>
+            <head>A WOOLLEN SHROUD, OR LEARN TO DYE.</head>
+            <head type="sub">In Seven Parts, to be read every Week.</head>
+            <div n="1" type="part">
+               <head>The Firſt Part, Containing certain Rules.</head>
+               <p n="1">I. <hi>AN Holy Life is the beſt preparation for a happy Death.</hi>
+               </p>
+               <p>
+                  <hi>Heb.</hi> 12.14. Without holineſs no man ſhall ſee the Lord. <hi>Heb.</hi> 5.9. Jeſus Chriſt is the Author of Eternal Salvation to all that obey him.</p>
+               <p n="2">II. <hi>The beginning of a Holy Life is true Repentance.</hi>
+               </p>
+               <p>
+                  <hi>Acts</hi> 3.19. Repent ye therefore, and be Convert<g ref="char:EOLhyphen"/>ed, that your ſins may be blotted out. <hi>Mat.</hi> 3.2. Amend your Lives for the Kingdom of Heaven is at Hand.</p>
+               <p n="3">III. <hi>It is God's will and command that we ſhould Repent.</hi>
+               </p>
+               <p>
+                  <hi>Ezek.</hi> 18.30, 31. Repent and turn your ſelves from all your tranſgreſſions. For why will ye dye? <hi>Acts</hi> 17.30. God commandeth all men every where to Repent.</p>
+               <p n="4">IV. <hi>God doth really and truly deſire our Salvation.</hi>
+               </p>
+               <p>
+                  <hi>Ezek.</hi> 33.11. As I live, ſaith the Lord, I have no pleaſure in the Death of the wicked: but that the
+<pb n="2" facs="tcp:50922:3"/>wicked turn from his evil way and live. <hi>Mat.</hi> 23. How often (ſaith Chriſt) would I have gathered ye, and ye would not. 1 <hi>Tim.</hi> 2.4. God will have all men to be ſaved, and to come to the knowledge of the Truth.</p>
+               <p n="5">V. <hi>God gave his only Son for all the World.</hi>
+               </p>
+               <p>
+                  <hi>John</hi> 3.16. God ſo loved the World, that he gave his only begotten Son; that whoſoever believeth in him might not periſh but have everlaſting life. <hi>John</hi> 1.29. Behold the Lamb of God which taketh away the ſins of the World. 1 <hi>John</hi> 2.2. Jeſus Chriſt the righteous is the propitiation for our ſins, and not for ours only, but alſo for the ſins of the whole World.</p>
+               <p n="6">VI. <hi>Chriſt came to call Sinners to Repentance, and Salva<g ref="char:EOLhyphen"/>tion.</hi>
+               </p>
+               <p>
+                  <hi>Mat.</hi> 11.28. Come unto me all ye that labor, and are heavy laden, and I will give you reſt. <hi>Luke</hi> 9.56. The Son of man is not come to deſtroy mens lives but to Save them.</p>
+               <p n="7">VII. <hi>The Miniſters of Chriſt are Preachers of Repentance.</hi>
+               </p>
+               <p>
+                  <hi>Luke</hi> 24.47. Repentance and Remiſſion of ſin ſhould be Preached in his name among all Nations. 2 <hi>Cor.</hi> 5.18. Chriſt hath given unto us the Miniſtry of reconciliation. 20. We pray you in Chriſts ſtead, be ye reconciled unto God.</p>
+               <p n="8">VIII. <hi>Above all knowledg, deſire and labor to know Jeſus Chriſt.</hi>
+               </p>
+               <p>
+                  <hi>Phil.</hi> 3.8. I count all things but loſs for the excel<g ref="char:EOLhyphen"/>lency of the knowledg of Jeſus Chriſt my Lord. <hi>Eph.</hi> 1.17. I pray that God may give unto you the Spirit and revelation for the acknowledgment of Chriſt. 2 <hi>Pet.</hi> 3.10. Grow in Grace, and in the knowledg of our Lord and Saviour Jeſus Chriſt.</p>
+               <p n="9">IX. <hi>Look upon Chriſt as the beſt example to be followed.</hi>
+               </p>
+               <p>
+                  <hi>Mat.</hi> 11.29. Learn of me for I am meek and low<g ref="char:EOLhyphen"/>ly in heart. 1 <hi>Cor.</hi> 11.1. Be ye followers of me even as I alſo am of Chriſt. 1 <hi>Pet.</hi> 2.21. Chriſt ſuffered
+<pb n="3" facs="tcp:50922:3"/>for us, leaving us an example, that ye ſhould follow his ſteps.</p>
+               <p n="10">X. <hi>Often meditate on the Sufferings of Chriſt our Lord, and on his Reſurrection.</hi>
+               </p>
+               <p>
+                  <hi>Rom</hi> 8.74. Who is he that condemneth? It is Chriſt that dyed: yea rather that is riſen again. <hi>Rom.</hi> 4.25. Who was delivered for our Offences, and raiſed again for our juſtification. 2 <hi>Tim.</hi> 2.8. Remember that Jeſus Chriſt was raiſed from the dead.</p>
+               <p n="11">XI. <hi>Think oft upon the happineſs of ſuch as dye in the favor of Chriſt.</hi>
+               </p>
+               <p>
+                  <hi>Philip.</hi> 1.21. To me to live is Chriſt, and to dye is gain. 23. Having a deſire to depart and to be with Chriſt. <hi>Rev.</hi> 14.13. Bleſſed are the dead which dye in the Lord.</p>
+               <p n="12">XII. <hi>Think upon Eternity.</hi>
+               </p>
+               <p>2 <hi>Cor.</hi> 4.18. The things which are ſeen are Tem<g ref="char:EOLhyphen"/>poral: but the things which are not ſeen are Eternal. <hi>Mat.</hi> 25.46. The unrighteous ſhall go away into ever<g ref="char:EOLhyphen"/>laſting puniſhment: but the righteous into life eternal.</p>
+            </div>
+            <div n="2" type="part">
+               <head>The Second Part, Containing Cautions or Warnings.</head>
+               <p n="1">I. <hi>AGainſt idleneſs and neglect of Duty, and of the works of our Calling.</hi>
+               </p>
+               <p>2 <hi>Theſ.</hi> 3.12. Such as walk diſorderly working not at all, but are buſie bodies, we command and exhort by our Lord Jeſus Chriſt, that with quietneſs they work and eat their own Bread. 1 <hi>Theſſ.</hi> 5.14. Warn them that are unruly or diſorderly. 2 <hi>Theſſ</hi> 3.10. This we commanded you; that if any would not work, neither ſhould he eat. 1 <hi>Cor.</hi> 7.20. Let every one abide in the ſame calling wherein he is called.</p>
+               <p n="2">II. <hi>Againſt negligence in coming to Church, to Prayers and Sermons.</hi>
+               </p>
+               <pb n="4" facs="tcp:50922:4"/>
+               <p>
+                  <hi>Pſ.</hi> 122.1. <hi>I</hi> was gald when they ſaid unto me, let us go into the Houſe of the Lord. <hi>Pſ.</hi> 84.1. O how amiable are thy Tabernacles O Lord of Hoaſts! Bleſſed are they that dwell in thy Houſe: they ſhall be ſtill praiſing thee. <hi>Mat.</hi> 21.13. My houſe ſhall be called the houſe of Prayer. <hi>Mark</hi> 4.24. Take heed what you hear. <hi>Luke</hi> 8.18. Take heed how ye hear. <hi>Luke</hi> 11.28. Bleſſed are they that hear the word of God and keep it. <hi>Heb.</hi> 10.25. Not forſaking the aſ<g ref="char:EOLhyphen"/>ſembling of your ſelves together, as the manner of ſome is. <hi>Jam.</hi> 1.21, 22. Receive with meekneſs the ingrafted word which is able to Save your Souls. But be ye doers of the word, and not hearers only, de<g ref="char:EOLhyphen"/>ceiving your own Souls.</p>
+               <p n="3">
+                  <hi>III. Againſt coldneſs in coming to the Holy Communion.</hi>
+               </p>
+               <p>1 <hi>Cor.</hi> 10.16. The Cup of Bleſſing which we Bleſs, is it not the Communion of the Blood of Chriſt? The Bread which we break, is it not the Communion of the Body of Chriſt? 1 <hi>Cor.</hi> 11.24. This do in re<g ref="char:EOLhyphen"/>membrance of me. 28. But let a man examin himſelf; and ſo let him eat of that bread, and drink of that Cup.</p>
+               <p n="4">
+                  <hi>IV. Againſt irreverence in the Worſhip of God.</hi>
+               </p>
+               <p>
+                  <hi>Pſ.</hi> 95.6. O come let us Worſhip and fall down, and kneel before the Lord our Maker. <hi>Luke</hi> 22.41. Our Lord kneeled down and prayed. Acts 20.36. <hi>Paul</hi> kneeled down and prayed with them all. <hi>Heb.</hi> 12.28. Serve God acceptably with reverence and godly fear.</p>
+               <p n="5">
+                  <hi>V. Againſt diſobedience to Governors in the Church and State.</hi>
+               </p>
+               <p>
+                  <hi>Rom.</hi> 13.1. Let every ſoul be ſubject unto the high<g ref="char:EOLhyphen"/>er powers. 1 <hi>Pet.</hi> 2.13. Whether it be to the King as Suppream, or unto Governors, as unto them that are ſent by him. <hi>Heb.</hi> 13.17. Obey them that have the rule over you, and ſubmit your ſelves; for they watch for your Souls. <hi>Luke</hi> 10.16. He that heareth you, heareth me: and he that deſpiſeth you deſpiſeth me: and he that deſpiſeth me, deſpiſeth him that ſent me.</p>
+               <pb n="5" facs="tcp:50922:4"/>
+               <p n="6">
+                  <hi>VI. Againſt Exceſs and abuſe of Gods good Gifts.</hi>
+               </p>
+               <p>
+                  <hi>Rom.</hi> 13. <hi>ult.</hi> Make not proviſion for the fleſh to fulfil the luſts thereof. 1 <hi>Cor</hi> 6.10. Drunkards ſhall not inherit the Kingdom of God. <hi>Phil.</hi> 4.5.—Let your moderation be known unto all men.</p>
+               <p n="7">
+                  <hi>VII. Againſt procraſtination and delay of our Repentance.</hi>
+               </p>
+               <p>
+                  <hi>Eſay</hi> 55.6. Seek the Lord while he may be found: call upon him while he is near. 2 <hi>Cor.</hi> 6.2. Now is the day of Salvation. <hi>Mat.</hi> 25.10. The Door was ſhut. <hi>Luke</hi> 19.42. Now they are hid from thine Eyes.</p>
+               <p n="8">
+                  <hi>VIII. Againſt unmindſulneſs of our Frailty and Miſery.</hi>
+               </p>
+               <p>
+                  <hi>Gen.</hi> 18.27. <hi>I</hi> am but Duſt and Aſhes. <hi>Job</hi> 14.1. Man is of few days, and full of trouble. <hi>Rev.</hi> 3.17. Thou knoweſt not, that thou art wretched, and miſer<g ref="char:EOLhyphen"/>able, and poor, and blind, and naked.</p>
+               <p n="9">
+                  <hi>IX. Againſt unmercifulneſs to the Poor and Needy.</hi>
+               </p>
+               <p>
+                  <hi>Pſ.</hi> 41.1. Bleſſed is he that conſidereth the poor and needy: the Lord ſhall deliver him in the time of trouble. <hi>Mat.</hi> 25.45. In as much as ye did it not to one of theſe, ye did it not unto me. <hi>Heb.</hi> 13.16. To do good and to diſtribute, forget not: for with ſuch Sacrifices God is well pleaſed.</p>
+               <p>
+                  <hi>X. Againſt Covetcouſneſs and deſire of Riches.</hi>
+               </p>
+               <p>
+                  <hi>Prov.</hi> 30.8. Give me neither Poverty nor Riches: Feed me with food convenient for me. 1 <hi>Tim.</hi> 6.10. The love of money is the root of all Evil.</p>
+               <p>
+                  <hi>XI. Againſt Impatience and Diſcontent.</hi>
+               </p>
+               <p>1 <hi>Sam.</hi> 3.18. It is the Lord, let him do what ſeem<g ref="char:EOLhyphen"/>eth him good in his Eyes. 1 <hi>Tim.</hi> 6.8. And having food and rayment, let us be therewith content.</p>
+               <p>
+                  <hi>XII. Againſt forgetfulneſs of our End and Departure hence.</hi>
+               </p>
+               <p>
+                  <hi>Jam.</hi> 4.14. What is your Life? It is even a vapor, that appeareth for a little time, and then vaniſheth away. <hi>Pſ.</hi> 90.12. So teach us to number our days, that we may apply our hearts unto Wiſdom.</p>
+            </div>
+            <div n="3" type="part">
+               <pb n="6" facs="tcp:50922:5"/>
+               <head>The Third part touching the four laſt things, De<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>, Judgment, Heaven and Hell.</head>
+               <p n="1">I. <hi>Heb.</hi> 9.27. It is appointed unto men once to dy: But after this the Judgment.</p>
+               <p n="2">II. <hi>Eccle.</hi> 12.7. Then ſhall the duſt return to the Earth as it was: And the Spirit ſhall return unto God who gave it.</p>
+               <p n="3">III. <hi>Pſ.</hi> 49. Wiſe men alſo dy and periſh toge<g ref="char:EOLhyphen"/>ther, as well as the ignorant and fooliſh: And leave their riches for others.</p>
+               <p n="4">IV. <hi>Jam.</hi> 2.13. He ſhall have judgment without mercy that ſhewed no mercy.</p>
+               <p n="5">V. 2. <hi>Cor.</hi> 5.10. We muſt all appear before the judgment ſeat of Chriſt, that every one may receive according to that he hath done, whether it be good or evil.</p>
+               <p n="6">VI. <hi>Acts.</hi> 17.31. God hath appointed a day wherein he will judge the world in righteouſneſs by that man whom he hath Ordained.</p>
+               <p n="7">VII. <hi>Rom.</hi> 2.6. &amp;c. God will render to every man according to his deeds: To them who by patient continuance in well doing ſeek for glory and honor and immortality; eternal life. But unto them that are contentious, and do not obey the truth, but obey unrighteouſneſs; indignation and wrath. Tribulation and anguiſh upon every ſoul of man that doth evil. But glory, honor and peace, to every man that work<g ref="char:EOLhyphen"/>eth good. For there is no reſpect of perſons with God.</p>
+               <p n="8">VIII. <hi>Math.</hi> 25.34. Then ſhall the King ſay unto them on his right hand; Come ye bleſſed of my Fa<g ref="char:EOLhyphen"/>ther, inherit the Kingdom prepared for you from the foundation of the world.</p>
+               <p n="9">IX. <hi>Matth.</hi> 25.41. Then ſhall he alſo ſay unto them on his left hand: Depart from me ye curſed, into Everlaſting Fire, prepared for the Devil and his Angels.</p>
+               <pb n="7" facs="tcp:50922:5"/>
+               <p n="10">X. 2. <hi>Pet.</hi> 2.4. God ſpared not the Angels that ſin<g ref="char:EOLhyphen"/>ned, but caſt them to Hell, and delivered them into Chains of Darkneſs, to be reſerved unto Judgment.</p>
+               <p n="11">XI. <hi>Luke</hi> 21.34. Take heed to your ſelves, leſt at any time your hearts be overcharged with ſurfeiting and drunkenneſs, and cares of this life; and ſo that day come upon you unawares.</p>
+               <p n="12">XII. <hi>Phil.</hi> 3.20.21. Our Converſation is in hea<g ref="char:EOLhyphen"/>ven; from whence alſo we look for the Saviour, the Lord Jeſus Chriſt. Who ſhall change our Vile body, that it may be faſhioned like unto his Glorious Body.</p>
+            </div>
+            <div n="4" type="part">
+               <head>The fourth part, containing Ejaculations out of the Pſalms.</head>
+               <p n="1">I. <hi>Pſalm</hi> 6.1. O Lord rebuke me not in thine Anger.</p>
+               <p>7.1. O Lord my God in thee do I put my truſt. 10.1. Why ſtandeſt thou ſo far off, O Lord.</p>
+               <p n="2">II. <hi>Pſ.</hi> 13.1. How long wilt thou forget me O Lord? for ever?</p>
+               <p>16.1. Preſerve me O Lord; for in thee do I put my truſt.</p>
+               <p>17.8. Hide me under the ſhadow of thy wings.</p>
+               <p n="3">III. <hi>Pſ.</hi> 22.1. My God, my God, why haſt thou for<g ref="char:EOLhyphen"/>ſaken me?</p>
+               <p>22.11. Be not far from me for trouble is near.</p>
+               <p>25.1. Unto thee O Lord do I lift up my ſoul.</p>
+               <p n="4">IV. <hi>Pſ.</hi> 25.4. Shew me thy wayes, O Lord; teach me thy paths.</p>
+               <p>25.18. Look upon my affliction and forgive all my ſins.</p>
+               <p>25.20. O Keep my ſoul and deliver me.</p>
+               <p n="5">V. <hi>Pſ.</hi> 26.8. Lord I have loved the habitation of thy houſe.</p>
+               <p>27.1. The Lord is my light and my ſalvation.</p>
+               <p>28.9. Save thy people and bleſs thine inheritance.</p>
+               <p n="6">VI. <hi>Pſ.</hi> 29. The Lord will bleſs his people with peace.</p>
+               <p>30.12. My God I will give thanks unto thee for ever.</p>
+               <pb n="8" facs="tcp:50922:6"/>
+               <p>31.5. Into thy hands I commit my ſpirit.</p>
+               <p n="7">VII. <hi>Pſ.</hi> 31.7. I will be glad and rejoyce in thy mercy.</p>
+               <p>31.16. Make thy face to ſhine upon thy ſervant.</p>
+               <p>31.21. O how great is thy goodneſs which thou haſt laid up for them that fear thee!</p>
+               <p n="8">VIII. <hi>Pſ.</hi> 31.23. O Love the Lord all ye his ſaints.</p>
+               <p>32.11. Be glad in the Lord and rejoyce ye righteous.</p>
+               <p>33.12. Bleſſed is the Nation whoſe God is the Lord.</p>
+               <p n="9">IX. <hi>Pſ.</hi> 33.18. Behold the Eye of the Lord is upon them that fear him.</p>
+               <p>34.8. O taſte and ſee, that the Lord is good.</p>
+               <p>36.9. With thee is the fountain of life; and in thy light ſhall we ſee light.</p>
+               <p n="10">X. <hi>Pſ.</hi> 37.3. Truſt in the Lord, and do good.</p>
+               <p>38.15. In thee O Lord, do I hope.</p>
+               <p>38.22. Make haſt to help me O Lord my Salvation.</p>
+               <p n="11">XI. <hi>Pſ.</hi> 39.4. Lord make me know my End.</p>
+               <p>40.8. I delight to do thy will O my God.</p>
+               <p>40. O Lord make haſt to help me.</p>
+               <p n="12">XII. <hi>Pſ.</hi> 42.5. Why art thou caſt down O my ſoul? put thy truſt in God.</p>
+               <p>43.3. Lord ſend out thy light and thy truth.</p>
+               <p>73.25. Whom have I in Heaven but thee? and there is none upon Earth, that I deſire in compariſon of thee.</p>
+            </div>
+            <div n="5" type="part">
+               <head>The fifth part, containing ſome comfortable notes for afflicted and ſick perſons.</head>
+               <p n="1">I. IF we conſider from what fatherly love Afflictions come, how they are not only moderated but ſweet<g ref="char:EOLhyphen"/>ned and ſanctified in the iſſue to us; how can it but mi<g ref="char:EOLhyphen"/>niſter matter of comfort to us in the greateſt ſeeming diſcomforts?</p>
+               <p n="2">II. What unthankfulneſs is it, to think ſo much upon two or three croſſes, and to forget a hundred bleſſings?</p>
+               <p n="3">III. A growing and fruitful Chriſtian is always a com<g ref="char:EOLhyphen"/>fortable Chriſtian. The Oyle of grace bring forth the
+<pb n="9" facs="tcp:50922:6" rendition="simple:additions"/>Oyle of gladneſs. Chriſt is firſt a King of Righteouſneſs and then a King of Peace.</p>
+               <p n="4">IV. A Chriſtian overcomes by patience: Chriſt's victory was upon the Croſs.</p>
+               <p n="5">V. Search the Scriptures and turn the promiſes into prayers, and preſs God for the performance of them.</p>
+               <p n="6">VI. As Chriſt was a man of ſorrows, ſo are his mem<g ref="char:EOLhyphen"/>bers predeſtinate to a conformity with him in ſuffering.</p>
+               <p n="7">VII. A Chriſtian is a man of another world, and here from home; which he would forget, if he were not exerciſed here, and would take his paſſage for his Country.</p>
+               <p n="8">VIII. Often we diſcomfort our ſelves by falſe reaſon<g ref="char:EOLhyphen"/>ings; as that we have no grace when we feel none: feel<g ref="char:EOLhyphen"/>ing is not always a fit rule to judge our tales by: Or, that God hath rejected us, becauſe we are croſſed in outward things; when as this iſſues from his wiſdom and love.</p>
+               <p n="9">IX. If there be a neglect of growing in holineſs, the ſoul will never be ſoundly quiet: where there is not a pure conſcience there is not a pacified conſcience.</p>
+               <p n="10">X. So much as we are quiet and cheerful upon good grounds, ſo much we live, and are as it were in heaven.</p>
+               <p n="11">XI. The life of a Chriſtian ſhould be a medication, how to unlooſe his affections from inferior things: He will eaſily dye, that is dead before in affection.</p>
+               <p n="12">XII. In extremity of body, the ſickneſs may be ſuch, as all that we can perform to God is a quiet ſubmiſſion, and a deſire to be carried unto Chriſt by prayers of o<g ref="char:EOLhyphen"/>thers.</p>
+            </div>
+            <div n="6" type="part">
+               <head>The ſixth part, preſenting ſome Apoſtolical Ex<g ref="char:EOLhyphen"/>hortations.</head>
+               <p n="1">I. S. <hi>Paul</hi> 1. <hi>Tim.</hi> 2.1. I exhort that firſt of all, ſup<g ref="char:EOLhyphen"/>plications, prayers, interceſſions, and giving of thanks be made for all men.</p>
+               <pb n="10" facs="tcp:50922:7" rendition="simple:additions"/>
+               <p n="2">II. <hi>Heb.</hi> 3.13. Exhort one another dayly, while it is called, to day: leſt any of you be hardened through the deceitfulneſs of ſin.</p>
+               <p n="3">III. <hi>Heb.</hi> 10.24.25. Let us conſider one another, to provoke unto love, and to good works: Exhorting one another, and ſo much the more, as ye ſee the day ap<g ref="char:EOLhyphen"/>proaching.</p>
+               <p n="4">IV. <hi>Phil.</hi> 2.1.2. If there be any conſolation in Chriſt, If any comfort of love, if any fellowſhip of the ſpirit, if any bowels and mercies; Fulfil ye my joy, that ye be like minded, having the ſame love, being of one accord, and of one mind. 5. Let this mind be in you which was alſo in Chriſt Jeſus.</p>
+               <p n="5">V. <hi>Heb.</hi> 12.5.6. Have ye forgotten the exhortation, which ſpeaketh unto you, as unto children; my ſon deſ<g ref="char:EOLhyphen"/>piſe not thou the chaſtening of the Lord, nor faint when thou art rebuked of him. For whom the Lord loveth he chaſteneth, and ſcourgeth every ſon whom he receiveth.</p>
+               <p n="6">VI. 1. <hi>Theſ.</hi> 4.1. We beſeech you, brethren, and exhort you by the Lord Jeſus, that as ye have received of us, how ye ought to walk, ſo ye would abound more and more. 3. For this is the will of God, even your ſanctification. 11. That ye ſtudy to be quiet, and to do your own buſineſs, and to work with your own hands, as we commanded you.</p>
+               <p n="7">VII. 1. <hi>Theſ.</hi> 5.14.15. Now we exhort you, brethren, warn them that are unruly, comfort the feeble minded, ſupport the weak, be patient toward all men. See that none render evil for evil unto any man: but ever follow that which is good, both among your ſevles and to all men.</p>
+               <p n="8">VIII. <hi>Gal.</hi> 6.9.10. Let us not be weary in well do<g ref="char:EOLhyphen"/>ing, for in due time we ſhall reap, if we faint not. As we have therefore opportunity, let us do good unto all men, eſpecially unto them who are of the houſhold of Faith.</p>
+               <p n="9">IX. S. <hi>James,</hi> 5.8.9. Be patient, brethren, ſtabliſh your heart for the coming of the Lord draweth nigh,
+<pb n="11" facs="tcp:50922:7"/>grudge not one againſt another, brethren, leſt ye be con<g ref="char:EOLhyphen"/>demned; behold the judge ſtandeth before the door.</p>
+               <p n="10">X. <hi>Jam.</hi> 5.13.14. Is any among you afflicted? let him pray. Is any ſick among you? Let him call for the Elders of the Church, and let them pray over him.</p>
+               <p n="11">
+                  <hi>XI. Jam.</hi> 5.16 Confeſs your faults one to another, and pray one for another that ye may be healed. The fervent prayer of a righteous man prevaileth much.</p>
+               <p n="12">
+                  <hi>XII.</hi> S. <hi>Peter,</hi> 1.4.7.8.9. The end of all things is at hand, be ye therefore ſober, and watch unto prayer. And above all things have fervent charity among your ſelves: for charity ſhall cover the multitude of ſins. Uſe hoſpitality one to another without grudging.</p>
+            </div>
+            <div n="7" type="part">
+               <head>The ſeventh part, ſhort prayers gathered out of the Church-book.</head>
+               <p n="1">
+                  <hi>I.</hi> O Lord God, our heavenly Father, who art the gi<g ref="char:EOLhyphen"/>ver of all goodneſs, <hi>I</hi> humbly beſeech thee ſend thy grace unto me, and to all people, that we may wor<g ref="char:EOLhyphen"/>ſhip thee, ſerve thee, and obey thee, as we ought to do: ſend us all things that be needful both for our ſouls and bodies. Be merciful unto us, and forgive us our ſins: Be pleaſed to ſave us and defend us in all dangers ghoſtly and bodily; to keep us from all ſin and wickedneſs, and from our ghoſtly enemy, and from everlaſting death. And this, O Father, <hi>I</hi> truſt thou wilt do, of thy mercy and goodneſs, through our Lord Jeſus Chriſt. And there<g ref="char:EOLhyphen"/>fore <hi>I</hi> ſay <hi>Amen,</hi> ſo be it.</p>
+               <p n="2">
+                  <hi>II. I</hi> humbly beſeech thee, O Father, mercifully to look upon my infirmities, and for the glory of thy name, turn from me all thoſe evils, that <hi>I</hi> moſt juſtly have de<g ref="char:EOLhyphen"/>ſerved: and grant that in all my troubles <hi>I</hi> may put my whole truſt in thy mercy, through our only Mediator Je<g ref="char:EOLhyphen"/>ſus Chriſt. <hi>Amen.</hi>
+               </p>
+               <p n="3">
+                  <hi>III.</hi> Lord Jeſus, grant me in this world the knowledg of thy truth, and in the world to come life everlaſting, <hi>Amen.</hi>
+               </p>
+               <pb n="12" facs="tcp:50922:8"/>
+               <p n="4">
+                  <hi>IV.</hi> Father of all mercies, I bleſs thee for my creation and preſervation: but above all for thine ineſtimable love in my redemption by thy Son Jeſus Chriſt, for the means of grace and the hope of glo<g ref="char:EOLhyphen"/>ry, through the ſame Jeſus Chriſt, my only Lord and Saviour. <hi>Amen.</hi>
+               </p>
+               <p n="5">V. Almighty God raiſe me up to the life of grace, that when my Lord ſhall come in his glory to judge both the quick and the dead, <hi>I</hi> may riſe to the life im<g ref="char:EOLhyphen"/>mortal through him who liveth and reigneth now and for ever. <hi>Amen.</hi>
+               </p>
+               <p n="6">
+                  <hi>VI.</hi> Grant, O bleſſed Lord, that <hi>I</hi> may ſo hear, read, mark, and underſtand the Scriptures, that by pati<g ref="char:EOLhyphen"/>ence and comfort of thy holy word, <hi>I</hi> may embrace and ever hold faſt the bleſſed hope of everlaſting life, which thou haſt given us in our Saviour Jeſus Chriſt. <hi>Amen.</hi>
+               </p>
+               <p n="7">
+                  <hi>VII.</hi> Moſt Gracious God, create and make in me a new and contrite heart, that worthily lamenting my ſins, <hi>I</hi> may obtain of thee, the God of all mercy, perfect re<g ref="char:EOLhyphen"/>miſſion and forgiveneſs, through Jeſus Chriſt our Lord. <hi>Amen.</hi>
+               </p>
+               <p n="8">
+                  <hi>VIII.</hi> Lord give me grace to uſe ſuch abſtinence, that my Fleſh being ſubdued to the Spirit, <hi>I</hi> may ever obey thy Godly motions, to thy honor and glory, through Jeſus Chriſt. <hi>Amen.</hi>
+               </p>
+               <p n="9">
+                  <hi>IX.</hi> Almighty God, mercifully grant, that <hi>I</hi> may follow the examples of our Saviours patience, and be made partaker of his reſurrection, through the ſame Jeſus Chriſt our Lord. <hi>Amen.</hi>
+               </p>
+               <p n="10">
+                  <hi>X.</hi> Merciful God receive my ſupplication for all e<g ref="char:EOLhyphen"/>ſtates of men in thy holy Church, that every member of the ſame in his vocation and miniſtry, may truly and Godly ſerve thee through our Lord and Saviour Jeſus Chriſt. <hi>Amen.</hi>
+               </p>
+               <p n="11">
+                  <hi>XI.</hi> Lord increaſe in me Faith, hope, and charity, and that <hi>I</hi> may obtain that which thou doſt promiſe, make me
+<pb n="13" facs="tcp:50922:8"/>to love that which thou doſt command, through Jeſus Chriſt. Amen.</p>
+               <p n="12">
+                  <hi>XII.</hi> O Lord look down from Heaven, behold, viſit, and relieve thy poor Servant: Look upon me with the eyes of thy mercy: give me comfort and ſure confidence in thee; defend me from the danger of the enemy, and keep me in perpetual peace and ſafety, through Jeſus Chriſt, to whom be glory for ever and ever. <hi>Amen. Amen.</hi>
+               </p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
